@@ -1,1 +1,1 @@
-Sample text here for git demo
+const sampleString = "Hello World" 
